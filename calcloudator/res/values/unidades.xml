@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <resources>
+        <string-array name="unidades">
+            <item>Caballo de Vapor</item><item >Vatio (W)</item>
+            <item >Decibelios Vatios (Dbw)</item>
+            <item >Decibelios mW (Dbm):</item>
+            <item >MiliVatios (mW)</item>
+            
+            <item >Caballo de potencia</item>
+            <item >Kcalorias/hora</item>
+            <item >Kjulios/hora</item>
+        </string-array>
+    </resources>

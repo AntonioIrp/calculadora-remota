@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cal Cloud Ator</string>
+    <string name="multNumeros">Multiplique 2 numeros:</string>
+    <string name="mul1n">numero 1:</string>
+    <string name="menu_settings">configuracion</string>
+    <string name="mul2n">numero 2:</string>
+    <string name="userP">numero</string>
+    <string name="calcularmulti">calcular</string>
+    <string name="confTCPIP">configuracion</string>
+    <string name="title_activity_seleccion">Calc Cloud Ator</string>
+    <string name="CalcButton">Calcular</string>
+    <string name="ResultadomultiplicacionP">Resultado:</string>
+    <string name="exprematlab">Utilize la sintaxis como en matlab</string>
+    <string name="exprmatlabintroduzca">La sintaxis es libre:</string>
+    <string name="portS">Puerto:</string>
+    <string name="ipS">IP:</string>
+    <string name="botonIPS">Aceptar</string>
+
+</resources>
